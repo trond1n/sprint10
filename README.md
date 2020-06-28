@@ -1,3 +1,4 @@
-# https://trond1n.github.io/sprint10/
-домашка к 10 спринту
-ver. 0.0.2
+#домашка к 10 спринту
+## https://trond1n.github.io/sprint10/
+ver. 0.0.3
+для запуска проекта перейдите по ссылке выше. 
